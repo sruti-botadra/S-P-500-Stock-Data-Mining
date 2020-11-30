@@ -56,7 +56,7 @@ Let’s look at how other companies swayed the trend. The technology sector was 
 ### Goods Producing Company-
 Who doesn’t know Apple? It was probably the first company that came into your mind. Be it a good market or a bad phase, one would expect that Apple was not a kind of company that could get largely affected by the winds. But the charts speak a different story-
 
-![](images/RPlot_Apple_DOTCOM.png)
+![](images/Rplot_Apple_DOTCOM.png)
 
 Notice, a steep plunge in the stock price by August 1999 and then within exactly one year, the stock price of Apple decimated from $4.5 to $0.8. The investors lost a lot on stake.
 But Apple wasn’t the only one. It was nearly the same story for every goods manufacturing industry.
@@ -64,14 +64,14 @@ But Apple wasn’t the only one. It was nearly the same story for every goods ma
 ### Software Making Companies-
 Companies like Oracle had huge hits from the wave too. 
 
-![](images/RPlot_Oracle_DOTCOM.png)
+![](images/Rplot_Oracle_DOTCOM.png)
 
 As you can see Oracle’s stock price peaked in late 2000 at a price of $46.47. And the Dot-Com bubble hit it harder. The stock price reached as low as just $7.25 in the summer of 2002. And these valleys were not momentary. The traces of loss stay for a very long time. The steeper the fall, the tougher it gets to get back to the original point. It took Oracle almost 14months to recovery when eventually the stock reached it previous all-time high in December 2014.
 
 ### Service Providing Companies-
 Amazon was regarded as competitor of WebVan. So, Amazon and any “.com” crashed even more dramatically. From $85.06 in 1999 to $5.97 by 2001. It wasn’t until October 2009 that it managed to surprise this value- a mere 10 years.
 
-![](images/RPlot_Amazon_DOTCOM.png)
+![](images/Rplot_Amazon_DOTCOM.png)
 
 ### Housing Bubble
 The story of the crisis in a nutshell-
